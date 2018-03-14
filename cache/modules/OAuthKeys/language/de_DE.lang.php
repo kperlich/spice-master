@@ -1,0 +1,28 @@
+<?php
+// created: 2018-03-14 10:52:56
+$mod_strings = array (
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Erstellt am:',
+  'LBL_DATE_MODIFIED' => 'Geändert am',
+  'LBL_MODIFIED' => 'Geändert von',
+  'LBL_MODIFIED_ID' => 'Geändert von ID',
+  'LBL_MODIFIED_NAME' => 'Geändert von Name',
+  'LBL_CREATED' => 'Erstellt von',
+  'LBL_CREATED_ID' => 'Erstellt von ID',
+  'LBL_DESCRIPTION' => 'Beschreibung',
+  'LBL_DELETED' => 'Gelöscht',
+  'LBL_NAME' => 'Verbrauchter Schlüssel Name',
+  'LBL_CREATED_USER' => 'Erstellt von',
+  'LBL_MODIFIED_USER' => 'Geändert von',
+  'LBL_LIST_NAME' => 'Schlüssel Name',
+  'LBL_ASSIGNED_TO_ID' => 'Zugewiesene BenutzerID',
+  'LBL_ASSIGNED_TO_NAME' => 'Zugewiesen an:',
+  'LBL_CONSKEY' => 'Kunden Schlüssel',
+  'LBL_CONSSECRET' => 'Kunden Kennwort',
+  'LBL_LIST_FORM_TITLE' => 'OAuth Schlüssel',
+  'LBL_MODULE_NAME' => 'OAuth Schlüssel',
+  'LBL_MODULE_TITLE' => 'OAuth Schlüssel',
+  'LNK_NEW_RECORD' => 'OAuth Schlüssel erstellen',
+  'LNK_LIST' => 'OAuth Schlüssel anzeigen',
+  'LBL_TOKENS' => 'Tokens',
+);

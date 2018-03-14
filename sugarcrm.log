@@ -1,0 +1,165 @@
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL] Could not connect to DB server 192.168.99.121 as root. port : Host '192.168.99.121' is not allowed to connect to this MariaDB server
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Fri Jan 26 19:29:07 2018 [2600][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL] Could not connect to DB server localhost as root. port : Connection refused
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Fri Jan 26 19:31:27 2018 [5901][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Fri Jan 26 19:33:39 2018 [2350][1][FATAL] Error filling in user array:  Query Failed: SELECT id, first_name, last_name, user_name from users WHERE 1=1 ORDER BY first_name, last_name ASC: MySQL error 2006: MySQL server has gone away
+Fri Jan 26 19:33:39 2018 [5901][-none-][FATAL] Could not connect to DB server localhost as root. port : Connection refused
+Wed Feb 21 16:50:14 2018 [2191][-none-][FATAL] SECURITY: User authentication for Karsten failed
+Wed Feb 21 16:50:14 2018 [2191][-none-][FATAL] FAILED LOGIN:attempts[1] - Karsten
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: stat(): stat failed for upload/import/error_1.csv
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Declaration of ImportMap::save($owner_id, $name, $module, $source, $has_header, $delimiter, $enclosure) should be compatible with SugarBean::save($check_notify = false, $fts_index_bean = true)
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: stat(): stat failed for upload/import/status_1.csv
+Wed Feb 21 20:57:34 2018 [2409][1][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:04 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: relationship_fields
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: count(): Parameter must be an array or an object that implements Countable
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined variable: sort
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Declaration of ImportMap::save($owner_id, $name, $module, $source, $has_header, $delimiter, $enclosure) should be compatible with SugarBean::save($check_notify = false, $fts_index_bean = true)
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:01:05 2018 [2409][1][FATAL] Caught error: Undefined index: installing
+Wed Feb 21 21:04:26 2018 [5655][-none-][FATAL] SECURITY: User authentication for Karsten failed
+Wed Feb 21 21:04:26 2018 [5655][-none-][FATAL] FAILED LOGIN:attempts[1] - Karsten
+Wed Mar  7 17:35:03 2018 [2540][-none-][FATAL] FAILED LOGIN:attempts[1] - 
+Tue Mar 13 20:01:32 2018 [2111][1][FATAL] Fehler: Es gab einen Fehler beim Upload. Bitte der Systemadmin kontaktieren
+Tue Mar 13 20:03:29 2018 [3212][1][FATAL] Fehler: Es gab einen Fehler beim Upload. Bitte der Systemadmin kontaktieren

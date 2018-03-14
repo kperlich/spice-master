@@ -1,0 +1,379 @@
+
+2018-01-26 18:27:18...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:22...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:23...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:33...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:39...Begin System Check Process *************
+2018-01-26 18:27:39...XML Parsing Support Found
+2018-01-26 18:27:39...MBString Support Found
+2018-01-26 18:27:39...ZIP Support Found
+2018-01-26 18:27:39.../custom directory and subdirectory check passed
+2018-01-26 18:27:39...cache directory and subdirectory check passed
+2018-01-26 18:27:39.../module  directory and subdirectory check passed
+2018-01-26 18:27:39.../upload directory check passed
+2018-01-26 18:27:39.../zip check passed
+2018-01-26 18:27:39.../curl check passed
+2018-01-26 18:27:39...PCRE version check passed
+2018-01-26 18:27:39...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:39...php.ini location found. /opt/lampp/etc/php.ini
+2018-01-26 18:27:39...Outputting HTML for System check
+2018-01-26 18:27:39...No Errors were found *************
+2018-01-26 18:27:42...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:44...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:27:47...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:28:42...Begin DB Check Process *************
+2018-01-26 18:28:42...testing with mysql:mysqli
+2018-01-26 18:28:42...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:28:42...Basic form info is INVALID, exit Process.
+2018-01-26 18:28:42...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:28:42..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:28:53...Begin DB Check Process *************
+2018-01-26 18:28:53...testing with mysql:mysqli
+2018-01-26 18:28:53...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:28:53...Basic form info is INVALID, exit Process.
+2018-01-26 18:28:53...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:28:53..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:29:07...Begin DB Check Process *************
+2018-01-26 18:29:07...testing with mysql:mysqli
+2018-01-26 18:29:07...Basic form info is valid, continuing Process.
+2018-01-26 18:29:07...Testing user account...
+2018-01-26 18:29:07...ERROR::  Der Datenbank Benutzername und/oder das Passwort ist falsch - es konnte keine Verbindung zur Datenbank hergestellt werden. Bitte geben Sie einen gültigen Benutzernamen / Passwort ein.
+2018-01-26 18:29:07...Testing priviliged account...
+2018-01-26 18:29:07...Connection made using  host: 192.168.99.121, usr: root
+2018-01-26 18:29:07...DB not selected, will create spicecrm
+2018-01-26 18:29:07...ERROR:: Datenbankversion kann nicht ermittelt werden
+2018-01-26 18:29:07...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:29:07..... Der Datenbank Benutzername und/oder das Passwort ist falsch - es konnte keine Verbindung zur Datenbank hergestellt werden. Bitte geben Sie einen gültigen Benutzernamen / Passwort ein.
+2018-01-26 18:29:07..... Datenbankversion kann nicht ermittelt werden
+2018-01-26 18:29:07...End DB Check Process *************
+2018-01-26 18:29:44...Begin DB Check Process *************
+2018-01-26 18:29:44...testing with mysql:mysqli
+2018-01-26 18:29:44...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:29:44...Basic form info is INVALID, exit Process.
+2018-01-26 18:29:44...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:29:44..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:29:57...Begin DB Check Process *************
+2018-01-26 18:29:57...testing with mysql:mysqli
+2018-01-26 18:29:57...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:29:57...Basic form info is INVALID, exit Process.
+2018-01-26 18:29:57...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:29:57..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:31:11...Begin DB Check Process *************
+2018-01-26 18:31:11...testing with mysql:mysqli
+2018-01-26 18:31:11...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:31:11...Basic form info is INVALID, exit Process.
+2018-01-26 18:31:11...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:31:11..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:31:20...Begin DB Check Process *************
+2018-01-26 18:31:20...testing with mysql:mysqli
+2018-01-26 18:31:20...ERROR::  Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:31:20...Basic form info is INVALID, exit Process.
+2018-01-26 18:31:20...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:31:20..... Die Passwörter für die Sugar-Datenbank stimmen nicht überein. Bitte geben Sie die selben Passwörter in den Passwortfeldern ein.
+2018-01-26 18:31:27...Begin DB Check Process *************
+2018-01-26 18:31:27...testing with mysql:mysqli
+2018-01-26 18:31:27...Basic form info is valid, continuing Process.
+2018-01-26 18:31:27...Testing user account...
+2018-01-26 18:31:27...ERROR::  Der Datenbank Benutzername und/oder das Passwort ist falsch - es konnte keine Verbindung zur Datenbank hergestellt werden. Bitte geben Sie einen gültigen Benutzernamen / Passwort ein.
+2018-01-26 18:31:27...Testing priviliged account...
+2018-01-26 18:31:27...Connection made using  host: localhost, usr: root
+2018-01-26 18:31:27...DB not selected, will create spicecrm
+2018-01-26 18:31:27...ERROR:: Datenbankversion kann nicht ermittelt werden
+2018-01-26 18:31:27...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2018-01-26 18:31:27..... Der Datenbank Benutzername und/oder das Passwort ist falsch - es konnte keine Verbindung zur Datenbank hergestellt werden. Bitte geben Sie einen gültigen Benutzernamen / Passwort ein.
+2018-01-26 18:31:27..... Datenbankversion kann nicht ermittelt werden
+2018-01-26 18:31:27...End DB Check Process *************
+2018-01-26 18:31:57...Begin DB Check Process *************
+2018-01-26 18:31:57...testing with mysql:mysqli
+2018-01-26 18:31:57...Basic form info is valid, continuing Process.
+2018-01-26 18:31:57...Testing user account...
+2018-01-26 18:31:57...Connection made using  host: localhost, usr: root
+2018-01-26 18:31:57...Testing priviliged account...
+2018-01-26 18:31:57...Connection made using  host: localhost, usr: root
+2018-01-26 18:31:57...ERROR:: Die angegebene Datenbak existiert bereits. Sie können<br />1. den Zurück-Button klicken und eine neue DB angeben <br />2. den Weiter-Button klicken und fortfahren. <strong>ALLE TABELLE UND DATEN WERDEN DADURCH GELÖSCHT!!!</strong>
+2018-01-26 18:31:57...Passed DB install check
+2018-01-26 18:31:57...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2018-01-26 18:31:57...End DB Check Process *************
+2018-01-26 18:32:01...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:32:23...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:32:28...installerHook: Could not find custom/install/install_hooks.php
+2018-01-26 18:32:28...calling handleSugarConfig()
+2018-01-26 18:32:28...calling handleLog4Php()
+2018-01-26 18:32:28...calling handleHtaccess()
+2018-01-26 18:32:28...calling handleDbCharsetCollation()
+2018-01-26 18:32:28...looping through all the Beans and create their tables
+2018-01-26 18:32:28...processing table acl_actions
+2018-01-26 18:32:28...dropping table acl_actions
+2018-01-26 18:32:28...creating table acl_actions
+2018-01-26 18:32:28...creating Relationship Meta for ACLAction
+2018-01-26 18:32:28...processing table acl_roles
+2018-01-26 18:32:28...dropping table acl_roles
+2018-01-26 18:32:28...creating table acl_roles
+2018-01-26 18:32:28...creating Relationship Meta for ACLRole
+2018-01-26 18:32:28...processing table relationships
+2018-01-26 18:32:28...dropping table relationships
+2018-01-26 18:32:28...creating table relationships
+2018-01-26 18:32:28...creating Relationship Meta for Relationship
+2018-01-26 18:32:28...processing table leads
+2018-01-26 18:32:28...dropping table leads
+2018-01-26 18:32:28...creating table leads
+2018-01-26 18:32:28...creating Relationship Meta for Lead
+2018-01-26 18:32:28...processing table cases
+2018-01-26 18:32:28...dropping table cases
+2018-01-26 18:32:28...creating table cases
+2018-01-26 18:32:28...creating Relationship Meta for Case
+2018-01-26 18:32:28...processing table bugs
+2018-01-26 18:32:28...dropping table bugs
+2018-01-26 18:32:28...creating table bugs
+2018-01-26 18:32:28...creating Relationship Meta for Bug
+2018-01-26 18:32:28...processing table users
+2018-01-26 18:32:28...dropping table users
+2018-01-26 18:32:29...creating table users
+2018-01-26 18:32:29...creating Relationship Meta for User
+2018-01-26 18:32:29...processing table campaign_log
+2018-01-26 18:32:29...dropping table campaign_log
+2018-01-26 18:32:29...creating table campaign_log
+2018-01-26 18:32:29...creating Relationship Meta for CampaignLog
+2018-01-26 18:32:29...processing table projects
+2018-01-26 18:32:29...dropping table projects
+2018-01-26 18:32:29...creating table projects
+2018-01-26 18:32:29...creating Relationship Meta for Project
+2018-01-26 18:32:29...processing table projecttasks
+2018-01-26 18:32:29...dropping table projecttasks
+2018-01-26 18:32:29...creating table projecttasks
+2018-01-26 18:32:29...creating Relationship Meta for ProjectTask
+2018-01-26 18:32:29...processing table campaigns
+2018-01-26 18:32:29...dropping table campaigns
+2018-01-26 18:32:29...creating table campaigns
+2018-01-26 18:32:29...creating Relationship Meta for Campaign
+2018-01-26 18:32:29...processing table prospect_lists
+2018-01-26 18:32:29...dropping table prospect_lists
+2018-01-26 18:32:29...creating table prospect_lists
+2018-01-26 18:32:29...creating Relationship Meta for ProspectList
+2018-01-26 18:32:29...processing table prospects
+2018-01-26 18:32:29...dropping table prospects
+2018-01-26 18:32:29...creating table prospects
+2018-01-26 18:32:29...creating Relationship Meta for Prospect
+2018-01-26 18:32:29...processing table email_marketing
+2018-01-26 18:32:29...dropping table email_marketing
+2018-01-26 18:32:29...creating table email_marketing
+2018-01-26 18:32:29...creating Relationship Meta for EmailMarketing
+2018-01-26 18:32:29...processing table campaign_trkrs
+2018-01-26 18:32:29...dropping table campaign_trkrs
+2018-01-26 18:32:29...creating table campaign_trkrs
+2018-01-26 18:32:29...creating Relationship Meta for CampaignTracker
+2018-01-26 18:32:29...processing table releases
+2018-01-26 18:32:29...dropping table releases
+2018-01-26 18:32:29...creating table releases
+2018-01-26 18:32:29...creating Relationship Meta for Release
+2018-01-26 18:32:29...processing table emailman
+2018-01-26 18:32:29...dropping table emailman
+2018-01-26 18:32:29...creating table emailman
+2018-01-26 18:32:29...creating Relationship Meta for EmailMan
+2018-01-26 18:32:29...processing table schedulers
+2018-01-26 18:32:29...dropping table schedulers
+2018-01-26 18:32:29...creating table schedulers
+2018-01-26 18:32:29...creating Relationship Meta for Scheduler
+2018-01-26 18:32:29...processing table job_queue
+2018-01-26 18:32:29...dropping table job_queue
+2018-01-26 18:32:29...creating table job_queue
+2018-01-26 18:32:29...creating Relationship Meta for SchedulersJob
+2018-01-26 18:32:29...processing table contacts
+2018-01-26 18:32:29...dropping table contacts
+2018-01-26 18:32:29...creating table contacts
+2018-01-26 18:32:29...creating Relationship Meta for Contact
+2018-01-26 18:32:29...processing table accounts
+2018-01-26 18:32:29...dropping table accounts
+2018-01-26 18:32:29...creating table accounts
+2018-01-26 18:32:29...creating Relationship Meta for Account
+2018-01-26 18:32:29...processing table opportunities
+2018-01-26 18:32:29...dropping table opportunities
+2018-01-26 18:32:29...creating table opportunities
+2018-01-26 18:32:29...creating Relationship Meta for Opportunity
+2018-01-26 18:32:29...processing table email_templates
+2018-01-26 18:32:29...dropping table email_templates
+2018-01-26 18:32:29...creating table email_templates
+2018-01-26 18:32:29...creating Relationship Meta for EmailTemplate
+2018-01-26 18:32:29...processing table notes
+2018-01-26 18:32:29...dropping table notes
+2018-01-26 18:32:29...creating table notes
+2018-01-26 18:32:29...creating Relationship Meta for Note
+2018-01-26 18:32:29...processing table calls
+2018-01-26 18:32:29...dropping table calls
+2018-01-26 18:32:30...creating table calls
+2018-01-26 18:32:30...creating Relationship Meta for Call
+2018-01-26 18:32:30...processing table emails
+2018-01-26 18:32:30...dropping table emails
+2018-01-26 18:32:30...creating table emails
+2018-01-26 18:32:30...creating Relationship Meta for Email
+2018-01-26 18:32:30...processing table meetings
+2018-01-26 18:32:30...dropping table meetings
+2018-01-26 18:32:30...creating table meetings
+2018-01-26 18:32:30...creating Relationship Meta for Meeting
+2018-01-26 18:32:30...processing table tasks
+2018-01-26 18:32:30...dropping table tasks
+2018-01-26 18:32:30...creating table tasks
+2018-01-26 18:32:30...creating Relationship Meta for Task
+2018-01-26 18:32:30...processing table users
+2018-01-26 18:32:30...processing table useraccesslogs
+2018-01-26 18:32:30...dropping table useraccesslogs
+2018-01-26 18:32:30...creating table useraccesslogs
+2018-01-26 18:32:30...creating Relationship Meta for UserAccessLog
+2018-01-26 18:32:30...processing table users
+2018-01-26 18:32:30...processing table currencies
+2018-01-26 18:32:30...dropping table currencies
+2018-01-26 18:32:30...creating table currencies
+2018-01-26 18:32:30...creating Relationship Meta for Currency
+2018-01-26 18:32:30...processing table tracker
+2018-01-26 18:32:30...dropping table tracker
+2018-01-26 18:32:30...creating table tracker
+2018-01-26 18:32:30...creating Relationship Meta for Tracker
+2018-01-26 18:32:30...processing table import_maps
+2018-01-26 18:32:30...dropping table import_maps
+2018-01-26 18:32:30...creating table import_maps
+2018-01-26 18:32:30...creating Relationship Meta for ImportMap
+2018-01-26 18:32:30...processing table users_last_import
+2018-01-26 18:32:30...dropping table users_last_import
+2018-01-26 18:32:30...creating table users_last_import
+2018-01-26 18:32:30...creating Relationship Meta for UsersLastImport
+2018-01-26 18:32:30...processing table config
+2018-01-26 18:32:30...dropping table config
+2018-01-26 18:32:30...creating table config
+2018-01-26 18:32:30...creating Relationship Meta for Administration
+2018-01-26 18:32:30...processing table upgrade_history
+2018-01-26 18:32:30...dropping table upgrade_history
+2018-01-26 18:32:30...creating table upgrade_history
+2018-01-26 18:32:30...creating Relationship Meta for UpgradeHistory
+2018-01-26 18:32:30...processing table vcals
+2018-01-26 18:32:30...dropping table vcals
+2018-01-26 18:32:30...creating table vcals
+2018-01-26 18:32:30...creating Relationship Meta for vCal
+2018-01-26 18:32:30...processing table versions
+2018-01-26 18:32:30...dropping table versions
+2018-01-26 18:32:30...creating table versions
+2018-01-26 18:32:30...creating Relationship Meta for Version
+2018-01-26 18:32:30...processing table roles
+2018-01-26 18:32:30...dropping table roles
+2018-01-26 18:32:30...creating table roles
+2018-01-26 18:32:30...creating Relationship Meta for Role
+2018-01-26 18:32:30...processing table documents
+2018-01-26 18:32:30...dropping table documents
+2018-01-26 18:32:30...creating table documents
+2018-01-26 18:32:30...creating Relationship Meta for Document
+2018-01-26 18:32:30...processing table document_revisions
+2018-01-26 18:32:30...dropping table document_revisions
+2018-01-26 18:32:30...creating table document_revisions
+2018-01-26 18:32:30...creating Relationship Meta for DocumentRevision
+2018-01-26 18:32:30...processing table fields_meta_data
+2018-01-26 18:32:30...dropping table fields_meta_data
+2018-01-26 18:32:30...creating table fields_meta_data
+2018-01-26 18:32:30...creating Relationship Meta for FieldsMetaData
+2018-01-26 18:32:30...processing table inbound_email
+2018-01-26 18:32:30...dropping table inbound_email
+2018-01-26 18:32:30...creating table inbound_email
+2018-01-26 18:32:30...creating Relationship Meta for InboundEmail
+2018-01-26 18:32:30...processing table saved_search
+2018-01-26 18:32:30...dropping table saved_search
+2018-01-26 18:32:30...creating table saved_search
+2018-01-26 18:32:30...creating Relationship Meta for SavedSearch
+2018-01-26 18:32:30...processing table user_preferences
+2018-01-26 18:32:30...dropping table user_preferences
+2018-01-26 18:32:30...creating table user_preferences
+2018-01-26 18:32:30...creating Relationship Meta for UserPreference
+2018-01-26 18:32:30...processing table userquotas
+2018-01-26 18:32:30...dropping table userquotas
+2018-01-26 18:32:30...creating table userquotas
+2018-01-26 18:32:30...creating Relationship Meta for UserQuota
+2018-01-26 18:32:30...processing table 
+2018-01-26 18:32:30...processing table email_addresses
+2018-01-26 18:32:30...dropping table email_addresses
+2018-01-26 18:32:30...creating table email_addresses
+2018-01-26 18:32:30...creating Relationship Meta for EmailAddress
+2018-01-26 18:32:30...processing table emails_text
+2018-01-26 18:32:30...dropping table emails_text
+2018-01-26 18:32:30...creating table emails_text
+2018-01-26 18:32:30...creating Relationship Meta for EmailText
+2018-01-26 18:32:30...processing table sugarfeed
+2018-01-26 18:32:30...dropping table sugarfeed
+2018-01-26 18:32:31...creating table sugarfeed
+2018-01-26 18:32:31...creating Relationship Meta for SugarFeed
+2018-01-26 18:32:31...processing table eapm
+2018-01-26 18:32:31...dropping table eapm
+2018-01-26 18:32:31...creating table eapm
+2018-01-26 18:32:31...creating Relationship Meta for EAPM
+2018-01-26 18:32:31...processing table oauth_consumer
+2018-01-26 18:32:31...dropping table oauth_consumer
+2018-01-26 18:32:31...creating table oauth_consumer
+2018-01-26 18:32:31...creating Relationship Meta for OAuthKey
+2018-01-26 18:32:31...processing table oauth_tokens
+2018-01-26 18:32:31...dropping table oauth_tokens
+2018-01-26 18:32:31...creating table oauth_tokens
+2018-01-26 18:32:31...creating Relationship Meta for OAuthToken
+2018-01-26 18:32:31...processing table kreports
+2018-01-26 18:32:31...dropping table kreports
+2018-01-26 18:32:31...creating table kreports
+2018-01-26 18:32:31...creating Relationship Meta for KReport
+2018-01-26 18:32:31...processing table proposals
+2018-01-26 18:32:31...dropping table proposals
+2018-01-26 18:32:31...creating table proposals
+2018-01-26 18:32:31...creating Relationship Meta for Proposal
+2018-01-26 18:32:31...processing table competitorassessments
+2018-01-26 18:32:31...dropping table competitorassessments
+2018-01-26 18:32:31...creating table competitorassessments
+2018-01-26 18:32:31...creating Relationship Meta for CompetitorAssessment
+2018-01-26 18:32:31...processing table kreleasepackages
+2018-01-26 18:32:31...dropping table kreleasepackages
+2018-01-26 18:32:31...creating table kreleasepackages
+2018-01-26 18:32:31...creating Relationship Meta for KReleasePackage
+2018-01-26 18:32:31...processing table kdeploymentsystems
+2018-01-26 18:32:31...dropping table kdeploymentsystems
+2018-01-26 18:32:32...creating table kdeploymentsystems
+2018-01-26 18:32:32...creating Relationship Meta for KDeploymentSystem
+2018-01-26 18:32:32...processing table kdeploymentmws
+2018-01-26 18:32:32...dropping table kdeploymentmws
+2018-01-26 18:32:32...creating table kdeploymentmws
+2018-01-26 18:32:32...creating Relationship Meta for KDeploymentMW
+2018-01-26 18:32:32...processing table eventregistrations
+2018-01-26 18:32:32...dropping table eventregistrations
+2018-01-26 18:32:32...creating table eventregistrations
+2018-01-26 18:32:32...creating Relationship Meta for EventRegistration
+2018-01-26 18:32:32...processing table dashboards
+2018-01-26 18:32:32...dropping table dashboards
+2018-01-26 18:32:32...creating table dashboards
+2018-01-26 18:32:32...creating Relationship Meta for Dashboard
+2018-01-26 18:32:32...processing table dashboardcomponents
+2018-01-26 18:32:32...dropping table dashboardcomponents
+2018-01-26 18:32:32...creating table dashboardcomponents
+2018-01-26 18:32:32...creating Relationship Meta for DashboardComponent
+2018-01-26 18:32:32...processing table mailboxes
+2018-01-26 18:32:32...dropping table mailboxes
+2018-01-26 18:32:32...creating table mailboxes
+2018-01-26 18:32:32...creating Relationship Meta for Mailbox
+2018-01-26 18:32:32...processing table mediafiles
+2018-01-26 18:32:32...dropping table mediafiles
+2018-01-26 18:32:32...creating table mediafiles
+2018-01-26 18:32:32...creating Relationship Meta for MediaFile
+2018-01-26 18:32:32...processing table companycodes
+2018-01-26 18:32:32...dropping table companycodes
+2018-01-26 18:32:32...creating table companycodes
+2018-01-26 18:32:32...creating Relationship Meta for CompanyCode
+2018-01-26 18:32:32...processing table companyfiscalperiods
+2018-01-26 18:32:32...dropping table companyfiscalperiods
+2018-01-26 18:32:32...creating table companyfiscalperiods
+2018-01-26 18:32:32...creating Relationship Meta for CompanyFiscalPeriod
+2018-01-26 18:32:32...processing table accountccdetails
+2018-01-26 18:32:32...dropping table accountccdetails
+2018-01-26 18:32:32...creating table accountccdetails
+2018-01-26 18:32:32...creating Relationship Meta for AccountCCDetail
+2018-01-26 18:32:32...processing table accountbankaccounts
+2018-01-26 18:32:32...dropping table accountbankaccounts
+2018-01-26 18:32:32...creating table accountbankaccounts
+2018-01-26 18:32:32...creating Relationship Meta for AccountBankAccount
+2018-01-26 18:32:36...Begin creating Defaults
+2018-01-26 18:32:36...insert defaults into config table
+2018-01-26 18:32:36...Standard Benutzer werden erstellt
+2018-01-26 18:32:37...Standard Zeitplaner Aufgaben erstellen
+2018-01-26 18:32:37...Enable SugarFeeds
+2018-01-26 18:32:37...populating the db with seed data
+2018-01-26 18:32:38...Installation has completed *********
+2018-02-21 13:19:37...installerHook: Could not find custom/install/install_hooks.php
